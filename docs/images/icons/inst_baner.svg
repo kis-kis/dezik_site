@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 77 77" style="enable-background:new 0 0 77 77;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="XMLID_323_">
+	<path id="XMLID_328_" class="st0" d="M53.4,77H23.6C10.6,77,0,66.4,0,53.4V23.6C0,10.6,10.6,0,23.6,0h29.9C66.4,0,77,10.6,77,23.6
+		v29.9C77,66.4,66.4,77,53.4,77z M23.6,5.8c-9.8,0-17.8,8-17.8,17.8v29.9c0,9.8,8,17.8,17.8,17.8h29.9c9.8,0,17.8-8,17.8-17.8V23.6
+		c0-9.8-8-17.8-17.8-17.8H23.6z"/>
+	<path id="XMLID_325_" class="st0" d="M38.5,58C27.8,58,19,49.3,19,38.5C19,27.8,27.8,19,38.5,19C49.3,19,58,27.8,58,38.5
+		C58,49.3,49.3,58,38.5,58z M38.5,24.9c-7.5,0-13.6,6.1-13.6,13.6c0,7.5,6.1,13.6,13.6,13.6c7.5,0,13.6-6.1,13.6-13.6
+		C52.1,31,46,24.9,38.5,24.9z"/>
+	<circle id="XMLID_324_" class="st0" cx="60.1" cy="16.9" r="5.1"/>
+</g>
+</svg>
